@@ -1,0 +1,2 @@
+module FakeComponentDep1
+end
